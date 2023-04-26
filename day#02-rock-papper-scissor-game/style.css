@@ -1,0 +1,82 @@
+/*
+    Global variables
+*/
+
+:root {
+    --bg-color: #1E1E1E ;
+    --primary-color: #ECECEC ;
+    --rock-color: #ff0000;
+    --paper-color: #2196f3;
+    --scissor-color: #4caf50;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--bg-color);
+    font-family: "poppins";
+}
+
+.container{
+    height: 400px;
+    width: 500px;
+    background-color: var(--primary-color);
+    padding:  40px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 20px;
+}
+.container-body{
+    height: 40%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+.container-body .btn-group{
+    height: 60%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.btn-group .btn{
+    padding: 20px;
+    border: none;
+    border-radius: 10px;
+    font-size: 2rem;
+    cursor: pointer;
+}
+.btn:nth-child(1){
+    background-color: var(--rock-color);
+}
+.btn:nth-child(2){
+    background-color: var(--paper-color);
+}
+.btn:nth-child(3){
+    background-color: var(--scissor-color);
+}
+
+.container-footer .mark-section{
+    height: 10%;
+    width: 100%;
+    text-align: center;
+    font-size: 1.2rem;
+}
+
+#resultText,
+.mark-section p span{
+    font-weight: bold;
+}
