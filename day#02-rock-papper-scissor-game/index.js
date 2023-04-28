@@ -6,6 +6,7 @@ const computerScoreText = document.getElementById("computerScore")
 let playerScore = 0;
 let computerScore = 0;
 
+
 buttons.forEach((button) => {
     button.addEventListener("click", () => {
       const result = playRound(button.id, computerPlay());
