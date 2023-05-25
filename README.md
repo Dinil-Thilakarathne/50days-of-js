@@ -16,7 +16,7 @@ You can view live demos of each project by visiting the following links:
 
 - [Random Color Generator](https://dinil-thilakarathne.github.io/50days-of-js/day%2301-random-color-generator/index.html)
  ![](/day%2301-random-color-generator/project-demo/demo.png)
-- [Rock Paper Scissor Game](https://dinil-thilakarathne.github.io/50days-of-js/day%2301-random-color-generator/index.html)
+- [Rock Paper Scissor Game](https://dinil-thilakarathne.github.io/50days-of-js/day%2302-rock-papper-scissor-game/index.html)
  ![](/day%2302-rock-papper-scissor-game//project-demo/demo.png)
 - [Todo app](https://dinil-thilakarathne.github.io/50days-of-js/day%233-todo-app/index.html)
  ![](/day%233-todo-app//project-ss/preview.png)
