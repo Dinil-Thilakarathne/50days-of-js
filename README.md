@@ -14,11 +14,12 @@ Whether you're just starting out with JavaScript or you're a seasoned pro lookin
 
 You can view live demos of each project by visiting the following links:
 
-- [Random Color Generator](https://sonacode.github.io/project1)
+- [Random Color Generator](https://dinil-thilakarathne.github.io/50days-of-js/day%2301-random-color-generator/index.html)
  ![](/day%2301-random-color-generator/project-demo/demo.png)
-- [Rock Paper Scissor Game](https://sonacode.github.io/project2)
+- [Rock Paper Scissor Game](https://dinil-thilakarathne.github.io/50days-of-js/day%2301-random-color-generator/index.html)
  ![](/day%2302-rock-papper-scissor-game//project-demo/demo.png)
-- [Project 3 demo](https://sonacode.github.io/project3)
+- [Todo app](https://dinil-thilakarathne.github.io/50days-of-js/day%233-todo-app/index.html)
+ ![](/day%233-todo-app//project-ss/preview.png)
 
 
 
