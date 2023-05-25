@@ -5,7 +5,7 @@
 
 # Demo 
 ## live Demo :
-- 
+- [demo](https://dinil-thilakarathne.github.io/50days-of-js/day%233-todo-app/index.html)
 
 ## Project Preview
 
