@@ -9,7 +9,7 @@
 
 ## Project Preview
 
-![](/project-ss/preview.png)
+![](project-ss/preview.png)
 
 
 
